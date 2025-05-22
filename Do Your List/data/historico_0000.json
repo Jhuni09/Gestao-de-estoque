@@ -1,0 +1,88 @@
+[
+  {
+    "data": "13/04/2025 09:32:31",
+    "a\u00e7\u00e3o": "Adicionou",
+    "produto": "folha",
+    "quantidade": 15
+  },
+  {
+    "data": "13/04/2025 09:37:53",
+    "a\u00e7\u00e3o": "Atualizou",
+    "produto": "folha",
+    "quantidade": 11
+  },
+  {
+    "data": "13/04/2025 09:38:01",
+    "a\u00e7\u00e3o": "Atualizou",
+    "produto": "folha",
+    "quantidade": 0
+  },
+  {
+    "data": "13/04/2025 09:38:14",
+    "a\u00e7\u00e3o": "Atualizou",
+    "produto": "folha",
+    "quantidade": 26
+  },
+  {
+    "data": "13/04/2025 09:56:05",
+    "a\u00e7\u00e3o": "Editou",
+    "produto": "pc",
+    "quantidade": 4,
+    "novo_nome": "pc"
+  },
+  {
+    "data": "13/04/2025 09:56:18",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": ""
+  },
+  {
+    "data": "13/04/2025 09:56:20",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": "papel"
+  },
+  {
+    "data": "13/04/2025 09:56:22",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": "pc"
+  },
+  {
+    "data": "15/04/2025 21:15:57",
+    "a\u00e7\u00e3o": "Adicionou",
+    "produto": "Geladeira Electrolux 4058",
+    "quantidade": 5
+  },
+  {
+    "data": "15/04/2025 21:16:02",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": ""
+  },
+  {
+    "data": "21/05/2025 20:42:00",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": "Geladeira Electrolux 4058"
+  },
+  {
+    "data": "21/05/2025 20:42:20",
+    "a\u00e7\u00e3o": "Adicionou",
+    "produto": "Ferro de passar",
+    "quantidade": 6
+  },
+  {
+    "data": "21/05/2025 20:42:44",
+    "a\u00e7\u00e3o": "Atualizou",
+    "produto": "Ferro de passar",
+    "quantidade": 8
+  },
+  {
+    "data": "21/05/2025 20:42:54",
+    "a\u00e7\u00e3o": "Editou",
+    "produto": "Ferro de passar",
+    "quantidade": 0,
+    "novo_nome": "Ferro de passar"
+  },
+  {
+    "data": "21/05/2025 20:42:57",
+    "a\u00e7\u00e3o": "Removeu",
+    "produto": "Ferro de passar"
+  }
+]
