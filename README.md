@@ -8,7 +8,7 @@ Este projeto é um sistema simples de cadastro e login de usuários desenvolvido
 - Login com verificação de credenciais
 - Verificação de duplicidade no cadastro
 - Listagem de todos os usuários registrados
-- Armazenamento seguro em arquivo `data.json`
+- Armazenamento em arquivo `data.json`
 
 ## 🧠 Estrutura do Código
 
